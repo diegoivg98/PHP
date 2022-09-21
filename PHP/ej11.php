@@ -5,7 +5,6 @@
     var_dump($x == $y);
     echo "<br>";
 
-
     // idéntico
     $x = 100;
     $y = "100";

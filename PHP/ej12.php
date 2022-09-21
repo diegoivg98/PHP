@@ -23,12 +23,10 @@
     $b %= 3;
     echo $b."<br>";
 
-     
     $a = "Hola";
     $b = $a;
     $b .= " Mundo";
     echo $b."<br>";
-
     
     $a = 6;
     $b = &$a;

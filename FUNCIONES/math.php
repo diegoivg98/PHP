@@ -2,7 +2,6 @@
     /* Returning the value of pi */
     echo "pi es igual a: ".pi()."<br>";
 
-    
     /* Finding the minimum and maximum values of the numbers in the parenthesis */
     $min = min(3,6,8,90,-200);
     $max = max(3,6,8,90,-200);
